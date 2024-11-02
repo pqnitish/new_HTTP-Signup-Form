@@ -1,0 +1,20 @@
+{
+  "name": "new_http-signup-form",
+  "version": "1.0.0",
+  "description": "This assignment helps in exploration of HTTP module in NodeJs, you are open to refer all the documentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/new_HTTP-Signup-Form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/new_HTTP-Signup-Form/issues"
+  },
+  "homepage": "https://github.com/pqnitish/new_HTTP-Signup-Form#readme"
+}
